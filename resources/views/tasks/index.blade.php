@@ -8,7 +8,7 @@
 </head>
 <body class="bg-gray-100 flex justify-center items-center min-h-screen">
     <div class="bg-white shadow-lg rounded-lg p-8 w-full max-w-md">
-        <h1 class="text-2xl font-bold mb-4">To-Do List</h1>
+        <h1 class="text-2xl font-bold mb-4">list pekerjaan</h1>
         
         <!-- Form untuk Menambah Task -->
         <form action="/tasks" method="POST" class="flex flex-col gap-2 mb-4">
